@@ -2,27 +2,658 @@
 #profile-update-interval: 12
 #support-url: https://t.me/Nagibatr3000
 #hide-settings: 1
-vless://24203a9d-c5c2-4671-9c82-5c3f9b884441@50.7.22.52:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=randomized&pbk=_4cv7OXJFuVt8PGPNwk8isFFgrRR5tKojjpLWGTN8RI&type=grpc&serviceName=xudp#Нидерланды
-vless://24203a9d-c5c2-4671-9c82-5c3f9b884441@67.159.43.99:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=m.vk.ru&fp=random&pbk=_4cv7OXJFuVt8PGPNwk8isFFgrRR5tKojjpLWGTN8RI&type=grpc&serviceName=xudp#Нидерланды
-vless://24203a9d-c5c2-4671-9c82-5c3f9b884441@cdn20.api-rutube.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=_4cv7OXJFuVt8PGPNwk8isFFgrRR5tKojjpLWGTN8RI&type=grpc&serviceName=xudp#Нидерланды
-vless://24203a9d-c5c2-4671-9c82-5c3f9b884441@cdn4.api-rutube.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=UrgwwPcy4WAVhF2GPCOO52JYVZg4-I3mD_a64F0ccnk&type=grpc&serviceName=xudp#Германия
-vless://24203a9d-c5c2-4671-9c82-5c3f9b884441@cdn33.api-rutube.ru:3306?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&type=grpc&serviceName=xudp#Финляндия
-vless://24203a9d-c5c2-4671-9c82-5c3f9b884441@cdn8.api-rutube.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&type=grpc&serviceName=xudp#Украина
-vless://24203a9d-c5c2-4671-9c82-5c3f9b884441@185.175.44.196:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.rum&fp=chrome&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&type=grpc&serviceName=xudp#США
-vless://24203a9d-c5c2-4671-9c82-5c3f9b884441@cdn33.api-rutube.ru:6379?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ozon.ru&fp=chrome&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&type=grpc&serviceName=xudp#Гонконг
-vless://24203a9d-c5c2-4671-9c82-5c3f9b884441@cdn33.api-rutube.ru:9042?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ozon.ru&fp=chrome&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&type=grpc&serviceName=xudp#Казахстан
-vless://24203a9d-c5c2-4671-9c82-5c3f9b884441@cdn33.api-rutube.ru:2083?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ozon.ru&fp=chrome&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&type=grpc&serviceName=xudp#Канада
-vless://24203a9d-c5c2-4671-9c82-5c3f9b884441@cdn33.api-rutube.ru:2053?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ozon.ru&fp=chrome&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&type=grpc&serviceName=xudp#Арабские%20Эмираты
-vless://24203a9d-c5c2-4671-9c82-5c3f9b884441@cdn33.api-rutube.ru:1521?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ozon.ru&fp=chrome&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&type=grpc&serviceName=xudp#Сингапур
-vless://24203a9d-c5c2-4671-9c82-5c3f9b884441@cdn33.api-rutube.ru:2095?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ozon.ru&fp=chrome&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&type=grpc&serviceName=xudp#Турция
-vless://24203a9d-c5c2-4671-9c82-5c3f9b884441@cdn33.api-rutube.ru:2096?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ozon.ru&fp=chrome&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&type=grpc&serviceName=xudp#Франция
-vless://24203a9d-c5c2-4671-9c82-5c3f9b884441@cdn33.api-rutube.ru:2087?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ozon.ru&fp=chrome&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&type=grpc&serviceName=xudp#Швейцария
-vless://24203a9d-c5c2-4671-9c82-5c3f9b884441@cdn33.api-rutube.ru:27017?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ozon.ru&fp=chrome&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&type=grpc&serviceName=xudp#Япония
-vless://24203a9d-c5c2-4671-9c82-5c3f9b884441@:griffon-guard.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=gosuslugi.ru&fp=chrome&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&type=grpc&serviceName=xudp#
-vless://24203a9d-c5c2-4671-9c82-5c3f9b884441@:griffon-guard.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=userapi.com&fp=chrome&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&type=grpc&serviceName=xudp#
-vless://24203a9d-c5c2-4671-9c82-5c3f9b884441@:griffon-guard.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ya.ru&fp=chrome&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&type=grpc&serviceName=xudp#
-vless://24203a9d-c5c2-4671-9c82-5c3f9b884441@51.250.106.37:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ozon.ru&fp=chrome&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&type=grpc&serviceName=xudp#
-vless://24203a9d-c5c2-4671-9c82-5c3f9b884441@51.250.106.37:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=://userapi.com&fp=chrome&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&type=grpc&serviceName=xudp#
-vless://24203a9d-c5c2-4671-9c82-5c3f9b884441@51.250.106.37:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rutube.ru&fp=chrome&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&type=grpc&serviceName=xudp#
-vless://24203a9d-c5c2-4671-9c82-5c3f9b884441@51.250.106.37:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&type=grpc&serviceName=xudp#
-vless://24203a9d-c5c2-4671-9c82-5c3f9b884441@51.250.106.37:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=://vk.com&fp=chrome&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&type=grpc&serviceName=xudp#
+{
+ "outbounds": [
+  {
+   "type": "vless",
+   "tag": "🇳🇱 Нидерланды | Скоростные 🚀 § 0",
+   "server": "50.7.22.52",
+   "server_port": 443,
+   "uuid": "24203a9d-c5c2-4671-9c82-5c3f9b884441",
+   "flow": "xtls-rprx-vision",
+   "tls": {
+    "enabled": true,
+    "server_name": "max.ru",
+    "utls": {
+     "enabled": true,
+     "fingerprint": "randomized"
+    },
+    "reality": {
+     "enabled": true,
+     "public_key": "_4cv7OXJFuVt8PGPNwk8isFFgrRR5tKojjpLWGTN8RI"
+    }
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "🇳🇱 Нидерланды 1 § 1",
+   "server": "67.159.43.99",
+   "server_port": 443,
+   "uuid": "24203a9d-c5c2-4671-9c82-5c3f9b884441",
+   "flow": "xtls-rprx-vision",
+   "tls": {
+    "enabled": true,
+    "server_name": "api.netcloak.pro",
+    "utls": {
+     "enabled": true,
+     "fingerprint": "random"
+    },
+    "reality": {
+     "enabled": true,
+     "public_key": "_4cv7OXJFuVt8PGPNwk8isFFgrRR5tKojjpLWGTN8RI"
+    }
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "🇳🇱 Нидерланды 2 § 2",
+   "server": "cdn20.api-rutube.ru",
+   "server_port": 443,
+   "uuid": "24203a9d-c5c2-4671-9c82-5c3f9b884441",
+   "flow": "xtls-rprx-vision",
+   "tls": {
+    "enabled": true,
+    "server_name": "max.ru",
+    "utls": {
+     "enabled": true,
+     "fingerprint": "chrome"
+    },
+    "reality": {
+     "enabled": true,
+     "public_key": "_4cv7OXJFuVt8PGPNwk8isFFgrRR5tKojjpLWGTN8RI"
+    }
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "🇩🇪 Германия 1 § 3",
+   "server": "cdn4.api-rutube.ru",
+   "server_port": 443,
+   "uuid": "24203a9d-c5c2-4671-9c82-5c3f9b884441",
+   "flow": "xtls-rprx-vision",
+   "tls": {
+    "enabled": true,
+    "server_name": "www.coinbase.com",
+    "utls": {
+     "enabled": true,
+     "fingerprint": "chrome"
+    },
+    "reality": {
+     "enabled": true,
+     "public_key": "UrgwwPcy4WAVhF2GPCOO52JYVZg4-I3mD_a64F0ccnk"
+    }
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "🇫🇮 Финляндия | Игровой 🕹 § 4",
+   "server": "cdn33.api-rutube.ru",
+   "server_port": 3306,
+   "uuid": "24203a9d-c5c2-4671-9c82-5c3f9b884441",
+   "flow": "xtls-rprx-vision",
+   "tls": {
+    "enabled": true,
+    "server_name": "max.ru",
+    "utls": {
+     "enabled": true,
+     "fingerprint": "chrome"
+    },
+    "reality": {
+     "enabled": true,
+     "public_key": "IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg"
+    }
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "🇺🇦 Украина | Torrent 🦖 § 5",
+   "server": "cdn8.api-rutube.ru",
+   "server_port": 443,
+   "uuid": "24203a9d-c5c2-4671-9c82-5c3f9b884441",
+   "flow": "xtls-rprx-vision",
+   "tls": {
+    "enabled": true,
+    "server_name": "transfiles.ru",
+    "utls": {
+     "enabled": true,
+     "fingerprint": "chrome"
+    },
+    "reality": {
+     "enabled": true,
+     "public_key": "IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg"
+    }
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "🇺🇸 США | ИИ 🦋 § 6",
+   "server": "185.175.44.196",
+   "server_port": 443,
+   "uuid": "24203a9d-c5c2-4671-9c82-5c3f9b884441",
+   "flow": "xtls-rprx-vision",
+   "tls": {
+    "enabled": true,
+    "server_name": "ebay.com",
+    "utls": {
+     "enabled": true,
+     "fingerprint": "chrome"
+    },
+    "reality": {
+     "enabled": true,
+     "public_key": "IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg"
+    }
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "🇭🇰 Гонконг § 7",
+   "server": "cdn33.api-rutube.ru",
+   "server_port": 6379,
+   "uuid": "24203a9d-c5c2-4671-9c82-5c3f9b884441",
+   "flow": "xtls-rprx-vision",
+   "tls": {
+    "enabled": true,
+    "server_name": "ozon.ru",
+    "utls": {
+     "enabled": true,
+     "fingerprint": "chrome"
+    },
+    "reality": {
+     "enabled": true,
+     "public_key": "IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg"
+    }
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "🇰🇿 Казахстан § 8",
+   "server": "cdn33.api-rutube.ru",
+   "server_port": 9042,
+   "uuid": "24203a9d-c5c2-4671-9c82-5c3f9b884441",
+   "flow": "xtls-rprx-vision",
+   "tls": {
+    "enabled": true,
+    "server_name": "ozon.ru",
+    "utls": {
+     "enabled": true,
+     "fingerprint": "chrome"
+    },
+    "reality": {
+     "enabled": true,
+     "public_key": "IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg"
+    }
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "🇨🇦 Канада § 9",
+   "server": "cdn33.api-rutube.ru",
+   "server_port": 2083,
+   "uuid": "24203a9d-c5c2-4671-9c82-5c3f9b884441",
+   "flow": "xtls-rprx-vision",
+   "tls": {
+    "enabled": true,
+    "server_name": "ozon.ru",
+    "utls": {
+     "enabled": true,
+     "fingerprint": "chrome"
+    },
+    "reality": {
+     "enabled": true,
+     "public_key": "IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg"
+    }
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "🇦🇪 ОАЭ § 10",
+   "server": "cdn33.api-rutube.ru",
+   "server_port": 2053,
+   "uuid": "24203a9d-c5c2-4671-9c82-5c3f9b884441",
+   "flow": "xtls-rprx-vision",
+   "tls": {
+    "enabled": true,
+    "server_name": "ozon.ru",
+    "utls": {
+     "enabled": true,
+     "fingerprint": "chrome"
+    },
+    "reality": {
+     "enabled": true,
+     "public_key": "IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg"
+    }
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "🇸🇬 Сингапур § 11",
+   "server": "cdn33.api-rutube.ru",
+   "server_port": 1521,
+   "uuid": "24203a9d-c5c2-4671-9c82-5c3f9b884441",
+   "flow": "xtls-rprx-vision",
+   "tls": {
+    "enabled": true,
+    "server_name": "ozon.ru",
+    "utls": {
+     "enabled": true,
+     "fingerprint": "chrome"
+    },
+    "reality": {
+     "enabled": true,
+     "public_key": "IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg"
+    }
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": " 🇹🇷 Турция § 12",
+   "server": "cdn33.api-rutube.ru",
+   "server_port": 2095,
+   "uuid": "24203a9d-c5c2-4671-9c82-5c3f9b884441",
+   "flow": "xtls-rprx-vision",
+   "tls": {
+    "enabled": true,
+    "server_name": "ozon.ru",
+    "utls": {
+     "enabled": true,
+     "fingerprint": "chrome"
+    },
+    "reality": {
+     "enabled": true,
+     "public_key": "IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg"
+    }
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "🇫🇷 Франция § 13",
+   "server": "cdn33.api-rutube.ru",
+   "server_port": 2096,
+   "uuid": "24203a9d-c5c2-4671-9c82-5c3f9b884441",
+   "flow": "xtls-rprx-vision",
+   "tls": {
+    "enabled": true,
+    "server_name": "ozon.ru",
+    "utls": {
+     "enabled": true,
+     "fingerprint": "chrome"
+    },
+    "reality": {
+     "enabled": true,
+     "public_key": "IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg"
+    }
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "🇨🇭 Швейцария § 14",
+   "server": "cdn33.api-rutube.ru",
+   "server_port": 2087,
+   "uuid": "24203a9d-c5c2-4671-9c82-5c3f9b884441",
+   "flow": "xtls-rprx-vision",
+   "tls": {
+    "enabled": true,
+    "server_name": "ozon.ru",
+    "utls": {
+     "enabled": true,
+     "fingerprint": "chrome"
+    },
+    "reality": {
+     "enabled": true,
+     "public_key": "IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg"
+    }
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "🇯🇵 Япония § 15",
+   "server": "cdn33.api-rutube.ru",
+   "server_port": 27017,
+   "uuid": "24203a9d-c5c2-4671-9c82-5c3f9b884441",
+   "flow": "xtls-rprx-vision",
+   "tls": {
+    "enabled": true,
+    "server_name": "ozon.ru",
+    "utls": {
+     "enabled": true,
+     "fingerprint": "chrome"
+    },
+    "reality": {
+     "enabled": true,
+     "public_key": "IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg"
+    }
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "🇷🇺 📱 #1 LTE - Белые списки § 16",
+   "server": "ru-1.griffon-guard.com",
+   "server_port": 443,
+   "uuid": "24203a9d-c5c2-4671-9c82-5c3f9b884441",
+   "flow": "xtls-rprx-vision",
+   "tls": {
+    "enabled": true,
+    "server_name": "ozon.ru",
+    "utls": {
+     "enabled": true,
+     "fingerprint": "chrome"
+    },
+    "reality": {
+     "enabled": true,
+     "public_key": "IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg"
+    }
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "🇷🇺 📱 #2 LTE - Белые списки § 17",
+   "server": "ru-1.griffon-guard.com",
+   "server_port": 443,
+   "uuid": "24203a9d-c5c2-4671-9c82-5c3f9b884441",
+   "flow": "xtls-rprx-vision",
+   "tls": {
+    "enabled": true,
+    "server_name": "sun22-21.userapi.com",
+    "utls": {
+     "enabled": true,
+     "fingerprint": "chrome"
+    },
+    "reality": {
+     "enabled": true,
+     "public_key": "IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg"
+    }
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "🇷🇺 📱 #3 LTE - Белые списки § 18",
+   "server": "ru-1.griffon-guard.com",
+   "server_port": 443,
+   "uuid": "24203a9d-c5c2-4671-9c82-5c3f9b884441",
+   "flow": "xtls-rprx-vision",
+   "tls": {
+    "enabled": true,
+    "server_name": "rutube.ru",
+    "utls": {
+     "enabled": true,
+     "fingerprint": "chrome"
+    },
+    "reality": {
+     "enabled": true,
+     "public_key": "IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg"
+    }
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "🇷🇺 📱 #4 LTE - Белые списки § 19",
+   "server": "ru-1.griffon-guard.com",
+   "server_port": 443,
+   "uuid": "24203a9d-c5c2-4671-9c82-5c3f9b884441",
+   "flow": "xtls-rprx-vision",
+   "tls": {
+    "enabled": true,
+    "server_name": "m.ok.ru",
+    "utls": {
+     "enabled": true,
+     "fingerprint": "chrome"
+    },
+    "reality": {
+     "enabled": true,
+     "public_key": "IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg"
+    }
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "🇷🇺 📱 #5 LTE - Белые списки § 20",
+   "server": "ru-1.griffon-guard.com",
+   "server_port": 443,
+   "uuid": "24203a9d-c5c2-4671-9c82-5c3f9b884441",
+   "flow": "xtls-rprx-vision",
+   "tls": {
+    "enabled": true,
+    "server_name": "egress.yandex.net",
+    "utls": {
+     "enabled": true,
+     "fingerprint": "chrome"
+    },
+    "reality": {
+     "enabled": true,
+     "public_key": "IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg"
+    }
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "🇷🇺 📱 #6 LTE - Белые списки § 21",
+   "server": "ru-2.griffon-guard.com",
+   "server_port": 443,
+   "uuid": "24203a9d-c5c2-4671-9c82-5c3f9b884441",
+   "flow": "xtls-rprx-vision",
+   "tls": {
+    "enabled": true,
+    "server_name": "eh5.vk.com",
+    "utls": {
+     "enabled": true,
+     "fingerprint": "chrome"
+    },
+    "reality": {
+     "enabled": true,
+     "public_key": "IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg"
+    }
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "🇷🇺 📱 #7 LTE - Белые списки § 22",
+   "server": "ru-2.griffon-guard.com",
+   "server_port": 443,
+   "uuid": "24203a9d-c5c2-4671-9c82-5c3f9b884441",
+   "flow": "xtls-rprx-vision",
+   "tls": {
+    "enabled": true,
+    "server_name": "vkvideo.ru",
+    "utls": {
+     "enabled": true,
+     "fingerprint": "chrome"
+    },
+    "reality": {
+     "enabled": true,
+     "public_key": "IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg"
+    }
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "🇷🇺 📱 #8 LTE - Белые списки § 23",
+   "server": "ru-2.griffon-guard.com",
+   "server_port": 443,
+   "uuid": "24203a9d-c5c2-4671-9c82-5c3f9b884441",
+   "flow": "xtls-rprx-vision",
+   "tls": {
+    "enabled": true,
+    "server_name": "queuev4.vk.com",
+    "utls": {
+     "enabled": true,
+     "fingerprint": "chrome"
+    },
+    "reality": {
+     "enabled": true,
+     "public_key": "IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg"
+    }
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "🇷🇺 📱 #9 LTE - Белые списки § 24",
+   "server": "ru-2.griffon-guard.com",
+   "server_port": 443,
+   "uuid": "24203a9d-c5c2-4671-9c82-5c3f9b884441",
+   "flow": "xtls-rprx-vision",
+   "tls": {
+    "enabled": true,
+    "server_name": "akashi.vk-portal.net",
+    "utls": {
+     "enabled": true,
+     "fingerprint": "chrome"
+    },
+    "reality": {
+     "enabled": true,
+     "public_key": "IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg"
+    }
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "🇷🇺 📱 #10 LTE - Белые списки § 25",
+   "server": "ru-2.griffon-guard.com",
+   "server_port": 443,
+   "uuid": "24203a9d-c5c2-4671-9c82-5c3f9b884441",
+   "flow": "xtls-rprx-vision",
+   "tls": {
+    "enabled": true,
+    "server_name": "kinopoisk.ru",
+    "utls": {
+     "enabled": true,
+     "fingerprint": "chrome"
+    },
+    "reality": {
+     "enabled": true,
+     "public_key": "IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg"
+    }
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "🇷🇺 📱 #11 LTE - Белые списки § 26",
+   "server": "51.250.106.37",
+   "server_port": 443,
+   "uuid": "24203a9d-c5c2-4671-9c82-5c3f9b884441",
+   "flow": "xtls-rprx-vision",
+   "tls": {
+    "enabled": true,
+    "server_name": "ozon.ru",
+    "utls": {
+     "enabled": true,
+     "fingerprint": "chrome"
+    },
+    "reality": {
+     "enabled": true,
+     "public_key": "IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg"
+    }
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "🇷🇺 📱 #12 LTE - Белые списки § 27",
+   "server": "51.250.106.37",
+   "server_port": 443,
+   "uuid": "24203a9d-c5c2-4671-9c82-5c3f9b884441",
+   "flow": "xtls-rprx-vision",
+   "tls": {
+    "enabled": true,
+    "server_name": "sun22-21.userapi.com",
+    "utls": {
+     "enabled": true,
+     "fingerprint": "chrome"
+    },
+    "reality": {
+     "enabled": true,
+     "public_key": "IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg"
+    }
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "🇷🇺 📱 #13 LTE - Белые списки § 28",
+   "server": "51.250.106.37",
+   "server_port": 443,
+   "uuid": "24203a9d-c5c2-4671-9c82-5c3f9b884441",
+   "flow": "xtls-rprx-vision",
+   "tls": {
+    "enabled": true,
+    "server_name": "rutube.ru",
+    "utls": {
+     "enabled": true,
+     "fingerprint": "chrome"
+    },
+    "reality": {
+     "enabled": true,
+     "public_key": "IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg"
+    }
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "🇷🇺 📱 #14 LTE - Белые списки § 29",
+   "server": "51.250.106.37",
+   "server_port": 443,
+   "uuid": "24203a9d-c5c2-4671-9c82-5c3f9b884441",
+   "flow": "xtls-rprx-vision",
+   "tls": {
+    "enabled": true,
+    "server_name": "api-maps.yandex.ru",
+    "utls": {
+     "enabled": true,
+     "fingerprint": "chrome"
+    },
+    "reality": {
+     "enabled": true,
+     "public_key": "IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg"
+    }
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "🇷🇺 📱 #15 LTE - Белые списки § 30",
+   "server": "51.250.106.37",
+   "server_port": 443,
+   "uuid": "24203a9d-c5c2-4671-9c82-5c3f9b884441",
+   "flow": "xtls-rprx-vision",
+   "tls": {
+    "enabled": true,
+    "server_name": "eh.vk.com",
+    "utls": {
+     "enabled": true,
+     "fingerprint": "chrome"
+    },
+    "reality": {
+     "enabled": true,
+     "public_key": "IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg"
+    }
+   },
+   "packet_encoding": "xudp"
+  }
+ ]
+}
